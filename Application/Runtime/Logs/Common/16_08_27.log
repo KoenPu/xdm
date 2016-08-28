@@ -1,0 +1,1471 @@
+[ 2016-08-27T18:20:21+08:00 ] ::1 /xdm/upload/201607/1468150825.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:21+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:21+08:00 ] ::1 /xdm/upload/201607/1467997051.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:21+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:22+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:22+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:22+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:29+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:20:30+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:30+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:30+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:30+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:30+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:30+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:30+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:20:41+08:00 ] ::1 /xdm/about/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:About
+
+[ 2016-08-27T18:21:00+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:21:00+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:01+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:02+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:02+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:21:02+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:37+08:00 ] ::1 /xdm/upload/201607/1468150825.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:37+08:00 ] ::1 /xdm/upload/201607/1467997051.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:37+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:37+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:37+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:38+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:38+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.005000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:26:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:46+08:00 ] ::1 /xdm/upload/201607/1468150825.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:46+08:00 ] ::1 /xdm/upload/201607/1467997051.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:46+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:46+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:47+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:47+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:48+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:48+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:48+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:48+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:48+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:48+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:48+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:28:49+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:49+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:49+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:49+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:53+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:53+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:28:53+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:35:14+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:35:14+08:00 ] ::1 /xdm/Public/upload/1468150825.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-27T18:35:14+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:35:14+08:00 ] ::1 /xdm/Public/upload/1467997051.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-27T18:35:15+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:35:48+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:35:48+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:35:49+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:37:46+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:37:46+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:37:46+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:37:47+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:41:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:41:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:41:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:41:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:41:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:41:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:44:00+08:00 ] ::1 /xdm/__PUBLIC/js/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:44:00+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:44:00+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:44:06+08:00 ] ::1 /xdm/news/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:News
+
+[ 2016-08-27T18:44:24+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:44:24+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:51:49+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:51:49+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:52:51+08:00 ] ::1 /xdm/__PUBLIC/js/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:52:51+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:52:51+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:52:55+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:52:55+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:52:55+08:00 ] ::1 /xdm/__PUBLIC/js/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:52:55+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:52:55+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:52:55+08:00 ] ::1 /xdm/__PUBLIC/js/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:53:05+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:53:05+08:00 ] ::1 /xdm/__PUBLIC/js/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:53:05+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:54:18+08:00 ] ::1 /xdm/__PUBLIC/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:54:18+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:54:18+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:54:19+08:00 ] ::1 /xdm/__PUBLIC/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:54:19+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:54:19+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:54:19+08:00 ] ::1 /xdm/__PUBLIC/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:54:19+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:54:19+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:55:28+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:55:28+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:55:28+08:00 ] ::1 /xdm/__PUBLIC/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T18:55:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:29+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:55:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:29+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:55:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:29+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:30+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:55:34+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T18:55:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:38+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T18:55:39+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:18+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:18+08:00 ] ::1 /xdm/__PUBLIC/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC
+
+
+[ 2016-08-27T19:00:18+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:35+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:35+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:35+08:00 ] ::1 /xdm/__PUBLIC/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:__PUBLIC
+
+[ 2016-08-27T19:00:55+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:55+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:55+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:57+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:57+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.005000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:58+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:59+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:00:59+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:00+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:34+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:01:34+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:01:34+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:35+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:01:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:35+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:35+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:36+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:36+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:37+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:37+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:38+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:38+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:41+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:41+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:41+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:42+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:42+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:43+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:43+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:43+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:43+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:43+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:43+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:02:44+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468310209754605.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:44+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468307527675297.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:44+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308663100221.jpg&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:44+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468308011101580.png&x=320&y=180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:44+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311719109132.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:44+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468311919309828.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:02:44+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468312144140292.jpg&x=50&y=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:03:53+08:00 ] ::1 /xdm/Public/js/abcd.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-27T19:03:53+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:03:53+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:03:57+08:00 ] ::1 /xdm/Public/js/abcd.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-27T19:03:57+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:03:57+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:04:10+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:04:10+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:04:10+08:00 ] ::1 /xdm/upload/201607/1468239291.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:04:10+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:04:10+08:00 ] ::1 /xdm/upload/201607/1468238182.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:04:11+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467883017.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:04:11+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285645304.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:04:11+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1468331036.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:04:11+08:00 ] ::1 /xdm/upload/201607/1469094497.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.004000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:04:11+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882285941105.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:04:11+08:00 ] ::1 /xdm/include/thumb.php?dir=upload/201607/1467882284934736.jpg&x=400&y=235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Include
+
+[ 2016-08-27T19:09:02+08:00 ] ::1 /xdm/upload/video/video.mp4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:09:02+08:00 ] ::1 /xdm/upload/201501/1422258610.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:09:02+08:00 ] ::1 /xdm/upload/201607/1468004725.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-08-27T19:09:03+08:00 ] ::1 /xdm/about/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:About
+
